@@ -1,0 +1,8 @@
+
+streamlit
+pandas
+numpy
+plotly
+duckdb
+python-dotenv
+google-genai
